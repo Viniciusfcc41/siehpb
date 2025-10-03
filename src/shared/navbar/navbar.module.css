@@ -1,0 +1,121 @@
+.body {
+  width: 100%;
+  height: 80px;
+  padding: 5px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #4bcbf0;
+  box-sizing: border-box;
+  color: white;
+  position: fixed;
+  z-index: 1000;
+}
+
+.logo {
+  height: 70px;
+}
+
+/* Menu normal (desktop) */
+.navbarOptions {
+  color: white;
+  list-style: none;
+  display: flex;
+  gap: 15px;
+  font-size: clamp(1rem, 1.3rem, 2rem);
+}
+
+.navbarItem {
+  padding: 5px 15px;
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+.navbarItem:hover, .sideMenu li:hover  {
+  background: white;
+  color: black;
+  cursor: pointer;
+}
+
+/* Hambúrguer (mobile) */
+.hamburger {
+  display: none;
+  flex-direction: column;
+  gap: 5px;
+  cursor: pointer;
+}
+
+.hamburger span {
+  width: 25px;
+  height: 3px;
+  background: white;
+  border-radius: 2px;
+  transition: 0.3s;
+}
+
+a{
+  color: white;
+  text-decoration: none
+}
+
+/* Menu lateral */
+.sideMenu {
+  position: fixed;
+  top: 0;
+  right: -50%;
+  width: 50%;
+  height: 100%;
+  background: #4bcbf0;
+  box-shadow: -2px 0 10px rgba(0, 0, 0, 0.3);
+  transition: right 0.3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1100;
+}
+
+.sideMenu ul {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+
+  padding: 0;
+  text-align: center;
+}
+
+.sideMenu li {
+  margin: 20px 0;
+  font-size: 1.5rem;
+  color: white;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+
+
+.sideMenu.open {
+  right: 0;
+}
+
+/* Overlay */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 1050;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .navbarOptions {
+    display: none; /* esconde menu normal */
+  }
+
+  .hamburger {
+    display: flex; /* aparece só no mobile */
+  }
+}

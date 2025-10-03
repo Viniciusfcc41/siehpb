@@ -1,0 +1,43 @@
+.body{
+    width: 100vw;
+    height: auto;
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0c1552;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+}
+
+.logo{
+    width: auto;
+    height: 50px
+}
+
+
+.logoIG{
+width: auto;
+height: 40px
+}
+
+.logoIG:hover{
+    cursor: pointer
+}
+
+@media(max-width:768px){
+    .body{
+        flex-direction: column;
+        justify-content: center;
+        gap: 30px
+    }
+
+    .logo{
+        height: 70px
+    }
+
+    .logoIG{
+        height: 60px
+    }
+}
