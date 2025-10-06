@@ -67,7 +67,17 @@ export const Convidados = () =>{
                         <strong><p className={style.nomeConvidado}>Dra. Cariles Silva de Oliveira</p></strong>
                         <p>Palestrante</p>
                     </span>
-                </div>  
+                </div>
+
+                <div className={style.convidado}>
+                    <div className={style.fotoContainer}>
+                        <img className={style.foto} src="/PadrePaulo.png"/>
+                    </div>
+                   <span className={style.info}>
+                        <strong><p className={style.nomeConvidado}>Paulo Cordeiro Fontes</p></strong>
+                        <p>Mini-curso</p>
+                    </span>
+                </div> 
 
                 <div className={style.convidado}>
                     <div className={style.fotoContainer}>
@@ -108,6 +118,16 @@ export const Convidados = () =>{
                         <p>Palestrante</p>
                     </span>
                 </div>  
+
+                <div className={style.convidado}>
+                    <div className={style.fotoContainer}>
+                        <img className={style.foto} src="/AnaCarolina.jpeg"/>
+                    </div>
+                   <span className={style.info}>
+                        <strong><p className={style.nomeConvidado}>Dra. Ana Carolina Bertoletti de Marchi</p></strong>
+                        <p>Palestrante</p>
+                    </span>
+                </div> 
 
                 <div className={style.convidado}>
                     <div className={style.fotoContainer}>

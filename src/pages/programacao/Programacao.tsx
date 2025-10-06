@@ -129,12 +129,14 @@ export const Programacao = () => {
                 <li><strong>09h00 – 10h30 - Minicursos</strong>
                   <ul>
                     <li><strong>Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
-                    <li><strong>Dra. Isabelle de Lima Brito:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
-                    <li><strong>Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
+                    <li><strong>Dra. Tatiene Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
+                    <li translate="no"><strong>Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
+                    <li><strong>Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
                   </ul>
                 </li>
                 <li><strong>10h00 - Dr. Guilherme Augusto Teodoro Athayde:</strong> Prevenção Cardiovascular como Pilar da Longevidade Saudável</li>
-                <li><strong>10h30 - Coffee Break</strong></li>
+                <li translate="no"><strong>10h30 - Coffee Break</strong></li>
+                <li>this is a translation test</li>
                 <li><strong>11h00 - Dr. Emerson do Bú e Dra. Karla Santos Mateus:</strong> Do Estigma ao Sintoma: Como Internalizamos o Idadismo e suas Consequências para a Saúde de Pessoas Idosas</li>
               </ul>
             </span>
@@ -145,9 +147,9 @@ export const Programacao = () => {
             <span>
               <ul>
                 <li><strong>13h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
-                <li><strong>14h30 - Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
-                <li><strong>15h00 - Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
-                <li><strong>15h30 - Coffee Break</strong></li>
+                <li><strong>14h00 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
+                <li><strong>15h00 - Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
+                <li><strong>15h30 - Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
                 <li><strong>16h00 - Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
                 <li><strong>Encerramento:</strong> Homenagens e cerimônia de encerramento</li>
               </ul>
