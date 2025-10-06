@@ -45,7 +45,7 @@ export const Programacao = () => {
 
     <>
     <Navbar/>
-    <div className={style.body}>
+    <div className={style.body} translate="no">
 
 
       <h1><strong>1° Simpósio interdisciplinar de evelhecimento humano da Paraíba:</strong> Integração de saberes, valorização da longevidade.</h1>
@@ -130,12 +130,12 @@ export const Programacao = () => {
                   <ul>
                     <li><strong>Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
                     <li><strong>Dra. Tatiene Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
-                    <li translate="no"><strong>Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
+                    <li><strong>Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
                     <li><strong>Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
                   </ul>
                 </li>
                 <li><strong>10h00 - Dr. Guilherme Augusto Teodoro Athayde:</strong> Prevenção Cardiovascular como Pilar da Longevidade Saudável</li>
-                <li translate="no"><strong>10h30 - Coffee Break</strong></li>
+                <li><strong>10h30 - Coffee Break</strong></li>
                 <li><strong>11h00 - Dr. Emerson do Bú e Dra. Karla Santos Mateus:</strong> Do Estigma ao Sintoma: Como Internalizamos o Idadismo e suas Consequências para a Saúde de Pessoas Idosas</li>
               </ul>
             </span>

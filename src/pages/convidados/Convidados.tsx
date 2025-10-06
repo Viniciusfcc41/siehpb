@@ -14,7 +14,7 @@ export const Convidados = () =>{
     return(
         <>
         <Navbar/>
-        <div className={style.body}>
+        <div className={style.body} translate="no">
             <h1>Convidados</h1>
 
             <div className={style.convidadosContainer}>
