@@ -136,7 +136,6 @@ export const Programacao = () => {
                 </li>
                 <li><strong>10h00 - Dr. Guilherme Augusto Teodoro Athayde:</strong> Prevenção Cardiovascular como Pilar da Longevidade Saudável</li>
                 <li translate="no"><strong>10h30 - Coffee Break</strong></li>
-                <li>this is a translation test</li>
                 <li><strong>11h00 - Dr. Emerson do Bú e Dra. Karla Santos Mateus:</strong> Do Estigma ao Sintoma: Como Internalizamos o Idadismo e suas Consequências para a Saúde de Pessoas Idosas</li>
               </ul>
             </span>
