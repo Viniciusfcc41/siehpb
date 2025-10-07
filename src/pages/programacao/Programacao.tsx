@@ -48,7 +48,7 @@ export const Programacao = () => {
     <div className={style.body} translate="no">
 
 
-      <h1><strong>1° Simpósio interdisciplinar de evelhecimento humano da Paraíba:</strong> Integração de saberes, valorização da longevidade.</h1>
+      <h1><strong>1° Simpósio interdisciplinar de envelhecimento humano da Paraíba:</strong> Integração de saberes, valorização da longevidade.</h1>
 
       <div className={style.containerTitulo}>
         <h2>Garanta seu ingresso!</h2>
@@ -128,9 +128,9 @@ export const Programacao = () => {
                 <li><strong>09h00 - Cariles Silva de Oliveira:</strong> Odontologia à beira do leito: novas perspectivas de atendimento à pessoa idosa fragilizada</li>
                 <li><strong>09h00 – 10h30 - Minicursos</strong>
                   <ul>
-                    <li><strong>Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
+                    <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
                     <li><strong>Dra. Tatiene Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
-                    <li><strong>Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
+                    <li><strong>Dra. Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
                     
                   </ul>
                 </li>
@@ -148,7 +148,7 @@ export const Programacao = () => {
                 <li><strong>13h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
                 <li><strong>14h00 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
                 <li><strong>15h00 - Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
-                <li><strong>15h00 - Minicurso:</strong>
+                <li><strong>14h00 – 15h30 - Minicurso:</strong>
                   <ul>
                     <li><strong>Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
                   </ul>
