@@ -74,7 +74,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/PadrePaulo.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Paulo Cordeiro Fontes</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dr. Paulo Cordeiro Fontes</p></strong>
                         <p>Mini-curso</p>
                     </span>
                 </div> 
@@ -84,7 +84,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/Daniel Figueira.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Daniel Figueira Rolo</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dr. Daniel Figueira Rolo</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  
@@ -94,7 +94,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/AngelicaMaria.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Angelica Maria da Costa</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Angelica Maria da Costa</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div> 
@@ -104,7 +104,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/foto.jpeg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Cláudio Emmanuel da Silva Filho</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dr. Cláudio Emmanuel da Silva Filho</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  
@@ -114,7 +114,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/GeraldaRodrigues.jpg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Geralda Rodrigues</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Geralda Rodrigues</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  
@@ -184,7 +184,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/KatiaLuna.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Katia Luna Freire</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Katia Luna Freire</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  
@@ -194,7 +194,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/LauraSousa.jpg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Laura de Sousa Gomes Veloso</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Laura de Sousa Gomes Veloso</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div> 

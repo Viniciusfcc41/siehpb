@@ -109,8 +109,8 @@ export const Programacao = () => {
                   <li><strong>19h30 - Dra. Liana Filgueira Albuquerque:</strong> Felicidade: sorte ou escolha?</li>
                   <li><strong>20h00 – 21h30 - Mesa redonda: Desafios e Avanços nas Políticas Públicas para Pessoas Idosas</strong>
                     <ul>
-                      <li><strong>Angélica Maria Moreira da Costa:</strong> O Conselho de Direitos da Pessoa Idosa e seu Papel na Sociedade</li>
-                      <li><strong>Kátia Luna Freire:</strong> Dialogando sobre o Estatuto da Pessoa Idosa na contemporaneidade</li>
+                      <li><strong>Dra. Angélica Maria Moreira da Costa:</strong> O Conselho de Direitos da Pessoa Idosa e seu Papel na Sociedade</li>
+                      <li><strong>Dra. Kátia Luna Freire:</strong> Dialogando sobre o Estatuto da Pessoa Idosa na contemporaneidade</li>
                       <li><strong>Dra. Haydêe Cassé da Silva:</strong> O pensar político na atenção integral de pessoas idosas em vulnerabilidade social</li>
                     </ul>
                   </li>
@@ -124,8 +124,8 @@ export const Programacao = () => {
             <h3 id={style.dia}>29 de Novembro - Manhã</h3>
             <span>
               <ul>
-                <li><strong>08h00 - Daniel Felgueiras Rolo:</strong> Saúde Planetária e Envelhecimento: Desafios para o próximo século</li>
-                <li><strong>09h00 - Cariles Silva de Oliveira:</strong> Odontologia à beira do leito: novas perspectivas de atendimento à pessoa idosa fragilizada</li>
+                <li><strong>08h00 - Dr. Daniel Felgueiras Rolo:</strong> Saúde Planetária e Envelhecimento: Desafios para o próximo século</li>
+                <li><strong>09h00 - Dra. Cariles Silva de Oliveira:</strong> Odontologia à beira do leito: novas perspectivas de atendimento à pessoa idosa fragilizada</li>
                 <li><strong>09h00 – 10h30 - Minicursos</strong>
                   <ul>
                     <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
@@ -147,14 +147,14 @@ export const Programacao = () => {
               <ul>
                 <li><strong>13h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
                 <li><strong>14h00 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
-                <li><strong>15h00 - Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
+                <li><strong>15h00 - Dr. Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
                 <li><strong>14h00 – 15h30 - Minicurso:</strong>
                   <ul>
-                    <li><strong>Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
+                    <li><strong>Dr. Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
                   </ul>
                 </li>
-                <li><strong>15h30 - Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
-                <li><strong>16h00 - Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
+                <li><strong>15h30 - Dra. Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
+                <li><strong>16h00 - Dra. Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
                 <li><strong>Encerramento:</strong> Homenagens e cerimônia de encerramento</li>
               </ul>
             </span>
