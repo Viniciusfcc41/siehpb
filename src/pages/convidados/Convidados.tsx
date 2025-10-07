@@ -194,7 +194,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/LauraSousa.jpg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Dr. Emerson do Bú</p></strong>
+                        <strong><p className={style.nomeConvidado}>Laura de Sousa Gomes Veloso</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div> 

@@ -97,7 +97,7 @@ a{
   right: 0;
 }
 
-/* Overlay */
+
 .overlay {
   position: fixed;
   top: 0;
@@ -108,14 +108,19 @@ a{
   z-index: 1050;
 }
 
-/* Mobile */
+.active {
+  background-color: white;
+  color: black;
+}
+
+
 
 @media (max-width: 768px) {
   .navbarOptions {
-    display: none; /* esconde menu normal */
+    display: none; 
   }
 
   .hamburger {
-    display: flex; /* aparece só no mobile */
+    display: flex;
   }
 }
