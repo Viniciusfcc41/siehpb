@@ -1,5 +1,3 @@
-//<div className={style.fotoContainer}></div>
-// 
 import { useEffect } from "react";
 import style from "../../style/convidados.module.css";
 import { Footer } from "../../shared/footer";
@@ -84,7 +82,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/Daniel Figueira.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Dr. Daniel Figueira Rolo</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dr. Daniel Felgueiras Rolo</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  
@@ -144,7 +142,7 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/TatianeBezerra.jpg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Dra. Tatiene Bezerra Leite Araújo</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Tatienne Bezerra Leite Araújo</p></strong>
                         <p>Mini-curso</p>
                     </span>
                 </div>    
