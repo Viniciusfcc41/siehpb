@@ -129,7 +129,7 @@ export const Programacao = () => {
                 <li><strong>09h00 – 10h30 - Minicursos</strong>
                   <ul>
                     <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
-                    <li><strong>Dra. Tatiene Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
+                    <li><strong>Dra. Tatienne Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
                     <li><strong>Dra. Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
                     
                   </ul>
@@ -145,7 +145,7 @@ export const Programacao = () => {
             <h3 id={style.dia}>29 de Novembro - Tarde</h3>
             <span>
               <ul>
-                <li><strong>13h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
+                <li><strong>13h00 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
                 <li><strong>14h00 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
                 <li><strong>15h00 - Dr. Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
                 <li><strong>14h00 – 15h30 - Minicurso:</strong>
