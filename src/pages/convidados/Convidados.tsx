@@ -109,10 +109,10 @@ export const Convidados = () =>{
 
                 <div className={style.convidado}>
                     <div className={style.fotoContainer}>
-                        <img className={style.foto} src="/GeraldaRodrigues.jpg"/>
+                        <img className={style.foto} src="/FabiolaMoreira.png"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Dra. Geralda Rodrigues</p></strong>
+                        <strong><p className={style.nomeConvidado}>Dra. Fabiola Moreira Casimiro de Oliveira</p></strong>
                         <p>Palestrante</p>
                     </span>
                 </div>  

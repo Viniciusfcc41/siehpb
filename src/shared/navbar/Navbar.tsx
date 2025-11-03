@@ -32,6 +32,16 @@ export const Navbar = () => {
             Convidados
           </Link>
         </li>
+        <li>
+          <Link
+            to="/trabalhos"
+            className={`${style.navbarItem} ${
+              location.pathname === "/trabalhos" ? style.active : ""
+            }`}
+          >
+            Trabalhos
+          </Link>
+        </li>
       </ul>
 
       {/* Botão hambúrguer */}
@@ -54,6 +64,11 @@ export const Navbar = () => {
             <Link to="/convidados"
               className={`${style.navbarItem} ${location.pathname === "/convidados" ? style.active : "" }`}onClick={() => setOpen(false)}>
               Convidados</Link>
+          </li>
+          <li>
+            <Link to="/trabalhos"
+              className={`${style.navbarItem} ${location.pathname === "/trabalhos" ? style.active : "" }`}onClick={() => setOpen(false)}>
+              Trabalhos</Link>
           </li>
         </ul>
       </div>

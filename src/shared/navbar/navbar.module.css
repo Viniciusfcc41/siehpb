@@ -31,7 +31,7 @@
   transition: 0.3s;
 }
 
-.navbarItem:hover, .sideMenu li:hover  {
+.navbarItem:hover  {
   background: white;
   color: black;
   cursor: pointer;
