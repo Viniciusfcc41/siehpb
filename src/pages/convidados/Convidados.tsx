@@ -23,7 +23,7 @@ export const Convidados = () =>{
                     </div>
                    <span className={style.info}>
                         <strong><p className={style.nomeConvidado}>Dra. Adriana Pereira de Oliveira</p></strong>
-                        <p>Mini-curso</p>
+                        <p>Minicurso</p>
                     </span>
                 </div> 
 
@@ -43,7 +43,7 @@ export const Convidados = () =>{
                     </div>
                    <span className={style.info}>
                         <strong><p className={style.nomeConvidado}>Dr. Anderson Belmont Correia de Oliveira</p></strong>
-                        <p>Mini-curso</p>
+                        <p>Minicurso</p>
                     </span>
                 </div> 
 
@@ -73,7 +73,7 @@ export const Convidados = () =>{
                     </div>
                    <span className={style.info}>
                         <strong><p className={style.nomeConvidado}>Dr. Paulo Cordeiro Fontes</p></strong>
-                        <p>Mini-curso</p>
+                        <p>Minicurso</p>
                     </span>
                 </div> 
 
@@ -113,7 +113,7 @@ export const Convidados = () =>{
                     </div>
                    <span className={style.info}>
                         <strong><p className={style.nomeConvidado}>Dra. Sandra Barbosa</p></strong>
-                        <p>Palestrante</p>
+                        <p>Minicurso</p>
                     </span>
                 </div>  
 
@@ -152,8 +152,8 @@ export const Convidados = () =>{
                         <img className={style.foto} src="/TatianeBezerra.jpg"/>
                     </div>
                    <span className={style.info}>
-                        <strong><p className={style.nomeConvidado}>Dra. Tatienne Bezerra Leite Araújo</p></strong>
-                        <p>Mini-curso</p>
+                        <strong><p className={style.nomeConvidado}>Dra. Tatianne Bezerra Leite Araújo</p></strong>
+                        <p>Minicurso</p>
                     </span>
                 </div>    
 

@@ -126,9 +126,7 @@ export const Programacao = () => {
               <ul>
                 <li><strong>08h00 - Dr. Daniel Felgueiras Rolo:</strong> Saúde Planetária e Envelhecimento: Desafios para o próximo século</li>
                 <li><strong>08h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
-                <li><strong>09h00 – 10h30 - Minicursos</strong>
-
-                </li>
+                <li><strong>09h30 - Coffee Break</strong></li>
                 <li><strong>10h00 - Dr. Guilherme Augusto Teodoro Athayde:</strong> Prevenção Cardiovascular como Pilar da Longevidade Saudável</li>
                 <li><strong>11h00 - Dr. Emerson do Bú e Dra. Karla Santos Mateus:</strong> Do Estigma ao Sintoma: Como Internalizamos o Idadismo e suas Consequências para a Saúde de Pessoas Idosas</li>
               </ul>
@@ -145,7 +143,7 @@ export const Programacao = () => {
                 <li><strong>15h00 - Coffee Break</strong></li>
 
  
-                <li><strong>15h30 - Dra. Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
+                <li><strong>15h30 - Dra. Fabiola Moreira Casimiro de Oliveira:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
                 <li><strong>16h00 - Dra. Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
                 <li><strong>Encerramento:</strong> Homenagens e cerimônia de encerramento</li>
               </ul>
@@ -159,14 +157,14 @@ export const Programacao = () => {
                 <li> <strong>28 de Novembro (Manhã) | 09h00 - 10h30:</strong>
                     <ul>
                     <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
-                    <li><strong>Dra. Tatienne Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
+                    <li><strong>Dra. Tatianne Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
                     <li><strong>Dra. Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
                 </ul>
                 </li>                <br />
                 <li><strong>29 de Novembro (Tarde) | 14h00 – 15h30:</strong>
                   <ul>
                     <li><strong>Dr. Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
-                    <li><strong>Dra. Sandra Barbosa:</strong>Programa de exercícios da marcha para pessoas idosas</li>
+                    <li><strong>Dra. Sandra Barbosa:</strong> Programa de exercícios da marcha para pessoas idosas</li>
 
                   </ul>
                 </li>
