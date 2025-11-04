@@ -35,7 +35,7 @@ export const Programacao = () => {
   if (loading) {
     return (
       <div className={style.loading}>
-        <p>Carregando progamação...</p>
+        <p>Carregando programação...</p>
       </div>
 
   )
@@ -125,17 +125,11 @@ export const Programacao = () => {
             <span>
               <ul>
                 <li><strong>08h00 - Dr. Daniel Felgueiras Rolo:</strong> Saúde Planetária e Envelhecimento: Desafios para o próximo século</li>
-                <li><strong>09h00 - Dra. Cariles Silva de Oliveira:</strong> Odontologia à beira do leito: novas perspectivas de atendimento à pessoa idosa fragilizada</li>
+                <li><strong>08h30 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
                 <li><strong>09h00 – 10h30 - Minicursos</strong>
-                  <ul>
-                    <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
-                    <li><strong>Dra. Tatienne Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
-                    <li><strong>Dra. Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
-                    
-                  </ul>
+
                 </li>
                 <li><strong>10h00 - Dr. Guilherme Augusto Teodoro Athayde:</strong> Prevenção Cardiovascular como Pilar da Longevidade Saudável</li>
-                <li><strong>10h30 - Coffee Break</strong></li>
                 <li><strong>11h00 - Dr. Emerson do Bú e Dra. Karla Santos Mateus:</strong> Do Estigma ao Sintoma: Como Internalizamos o Idadismo e suas Consequências para a Saúde de Pessoas Idosas</li>
               </ul>
             </span>
@@ -145,17 +139,36 @@ export const Programacao = () => {
             <h3 id={style.dia}>29 de Novembro - Tarde</h3>
             <span>
               <ul>
-                <li><strong>13h00 - Dra. Ana Karênina de Freitas Jordão do Amaral:</strong> Contribuições da Fonoaudiologia para o envelhecimento ativo</li>
-                <li><strong>14h00 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
-                <li><strong>15h00 - Dr. Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
-                <li><strong>14h00 – 15h30 - Minicurso:</strong>
+                <li><strong>13h00 - Dra. Cariles Silva de Oliveira:</strong> Odontologia à beira do leito: novas perspectivas de atendimento à pessoa idosa fragilizada</li>
+                <li><strong>13h30 - Dra. Lia Mara Wibelinger e Dra. Ana Carolina Bertoletti de Marchi:</strong> Perspectivas interdisciplinares no envelhecimento humano</li>
+                <li><strong>14h30 - Dr. Cláudio Emmanuel da Silva Filho:</strong> Integração dos cuidados paliativos no processo de envelhecimento</li>
+                <li><strong>15h00 - Coffee Break</strong></li>
+
+ 
+                <li><strong>15h30 - Dra. Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
+                <li><strong>16h00 - Dra. Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
+                <li><strong>Encerramento:</strong> Homenagens e cerimônia de encerramento</li>
+              </ul>
+            </span>
+          </div>
+
+          <div className={style.diaCard}>
+            <h3 id={style.dia}>Minicursos</h3>
+            <span>
+              <ul>                  
+                <li> <strong>28 de Novembro (Manhã) | 09h00 - 10h30:</strong>
+                    <ul>
+                    <li><strong>Dr. Anderson Belmont Correia de Oliveira:</strong> Prevenção de quedas: um olhar interdisciplinar na prática da fisioterapia</li>
+                    <li><strong>Dra. Tatienne Bezerra Leite Araújo:</strong> Nutrição para Pessoas Idosas: mitos e verdades</li>
+                    <li><strong>Dra. Adriana Pereira de Oliveira:</strong> Práticas Integrativas na Saúde do Idoso: da evidência à experiência</li>
+                </ul>
+                </li>                <br />
+                <li><strong>29 de Novembro (Tarde) | 14h00 – 15h30:</strong>
                   <ul>
                     <li><strong>Dr. Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
                   </ul>
                 </li>
-                <li><strong>15h30 - Dra. Geralda Rodrigues:</strong> Cuidado Integral à Pessoa Idosa: o papel da Enfermagem na Gestão Pública da Saúde</li>
-                <li><strong>16h00 - Dra. Laura de Sousa Gomes Veloso:</strong> Controle postural e envelhecimento: um novo paradigma na saúde da pessoa idosa</li>
-                <li><strong>Encerramento:</strong> Homenagens e cerimônia de encerramento</li>
+                
               </ul>
             </span>
           </div>
