@@ -166,6 +166,8 @@ export const Programacao = () => {
                 <li><strong>29 de Novembro (Tarde) | 14h00 – 15h30:</strong>
                   <ul>
                     <li><strong>Dr. Paulo Cordeiro Fontes:</strong> Espiritualidade e Saúde Mental: pilares para o Envelhecer Saudável</li>
+                    <li><strong>Dra. Sandra Barbosa:</strong>Programa de exercícios da marcha para pessoas idosas</li>
+
                   </ul>
                 </li>
                 

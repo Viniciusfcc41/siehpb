@@ -105,6 +105,16 @@ export const Convidados = () =>{
                         <strong><p className={style.nomeConvidado}>Dr. Cláudio Emmanuel da Silva Filho</p></strong>
                         <p>Palestrante</p>
                     </span>
+                </div>
+
+                <div className={style.convidado}>
+                    <div className={style.fotoContainer}>
+                        <img className={style.foto} src="/SandraBarbosa.jpg"/>
+                    </div>
+                   <span className={style.info}>
+                        <strong><p className={style.nomeConvidado}>Dra. Sandra Barbosa</p></strong>
+                        <p>Palestrante</p>
+                    </span>
                 </div>  
 
                 <div className={style.convidado}>
