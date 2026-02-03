@@ -25,7 +25,9 @@ export const Programacao = () => {
       .then((response) => response.json())
       .then((data: Evento[]) => {
         setEventos(data);
-        setLoading(false); // só desliga uma vez
+
+        // só desliga o loading na primeira vez
+        setLoading(false);
       })
       .catch((error) => {
         console.error("Erro ao carregar programação:", error);
@@ -33,12 +35,16 @@ export const Programacao = () => {
       });
   };
 
+ 
   fetchEventos();
 
-  const intervalId = setInterval(fetchEventos, 3000);
+  
+  const interval = setInterval(fetchEventos, 5000);
 
-  return () => clearInterval(intervalId);
+  
+  return () => clearInterval(interval);
 }, []);
+
 
 
   if (loading) {
