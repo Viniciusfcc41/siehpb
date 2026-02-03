@@ -16,21 +16,30 @@ export const Programacao = () => {
   const [eventoSelecionado, setEventoSelecionado] = useState<string>("");
 
   useEffect(() => {
-    document.title = "Programação";
+  document.title = "Programação";
 
+  const fetchEventos = () => {
     fetch(
-      `https://opensheet.elk.sh/1tkwdVzVYRHdm90iotrMXPV4ZG7RDIrMl1li8p7EzBpw/Página1`
+      "https://opensheet.elk.sh/1tkwdVzVYRHdm90iotrMXPV4ZG7RDIrMl1li8p7EzBpw/Página1"
     )
       .then((response) => response.json())
       .then((data: Evento[]) => {
         setEventos(data);
-        setLoading(false);
+        setLoading(false); // só desliga uma vez
       })
       .catch((error) => {
         console.error("Erro ao carregar programação:", error);
         setLoading(false);
       });
-  }, []);
+  };
+
+  fetchEventos();
+
+  const intervalId = setInterval(fetchEventos, 3000);
+
+  return () => clearInterval(intervalId);
+}, []);
+
 
   if (loading) {
     return (
