@@ -39,7 +39,7 @@ export const Programacao = () => {
   fetchEventos();
 
   
-  const interval = setInterval(fetchEventos, 5000);
+  const interval = setInterval(fetchEventos, 1500);
 
   
   return () => clearInterval(interval);
